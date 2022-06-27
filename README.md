@@ -1,6 +1,6 @@
 # IBM Cloud Solution Engineering Multiple VPC Template
 
-Create a network with logging and monitoring using VPC, Key Managment, Cloud Object Storage, Flow Logs, and Activity Tracker.
+Create a network with logging and monitoring using VPC, Key Management, Cloud Object Storage, Flow Logs, and Activity Tracker.
 
 ---
 
@@ -12,7 +12,7 @@ Create a network with logging and monitoring using VPC, Key Managment, Cloud Obj
 3. [Security Groups](#security-groups)
 4. [Transit Gateway](#transit-gateway)
 5. [Cloud Services](#cloud-services)
-  - [Key Management](#key-managment)
+  - [Key Management](#key-management)
     - [Key Management Keys](#key-management-keys)
   - [Cloud Object Storage](#cloud-object-storage)
   - [Secrets Manager](#secrets-manager)
@@ -260,7 +260,7 @@ This template can optionally be used to create the following services using the 
 
 ---
 
-### Key Managment
+### Key Management
 
 Key Management configuration uses the [key_management variable](./variables.tf#L305).
 

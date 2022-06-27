@@ -12,14 +12,14 @@ Create a network with logging and monitoring using VPC, Key Management, Cloud Ob
 3. [Security Groups](#security-groups)
 4. [Transit Gateway](#transit-gateway)
 5. [Cloud Services](#cloud-services)
-  - [Key Management](#key-management)
-    - [Key Management Keys](#key-management-keys)
-  - [Cloud Object Storage](#cloud-object-storage)
-  - [Secrets Manager](#secrets-manager)
+    - [Key Management](#key-management)
+        - [Key Management Keys](#key-management-keys)
+    - [Cloud Object Storage](#cloud-object-storage)
+      - [Secrets Manager](#secrets-manager)
 6. [Flow Logs](#flow-logs)
 7. [Activity Tracker](#activity-tracker)
-5. [Fail States](#fail-states)
-6. [Outputs](#outputs)
+8. [Fail States](#fail-states)
+9. [Outputs](#outputs)
 
 ---
 
